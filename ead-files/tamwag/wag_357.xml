@@ -56,6 +56,6 @@
     <persname role="dnr" rules="dacs" source="local">Karvelis, Noah</persname>
     <corpname rules="dacs" source="local">Arizona Educators United</corpname>
   </controlaccess>
-  <dsc><c id="aspace_cc173aff09bce2cd701431ac90e48ad5" level="file"><did><unittitle>PDF Files</unittitle><unitdate normal="2018-03/2018-04" type="inclusive">2018-03-2018-04</unitdate><dao xlink:actuate="onLoad" xlink:audience="external" xlink:href="https://aeon.library.nyu.edu/Logon?Action=10&amp;Form=31&amp;Value= http://dlib.nyu.edu/findingaids/ead/tamwag/wag_357.xml&amp;view=xml" xlink:show="new" xlink:title="PDF Files" xlink:type="simple"><daodesc><p>PDF Files</p></daodesc></dao></did></c></dsc>
+  <dsc><c id="aspace_cc173aff09bce2cd701431ac90e48ad5" level="file"><did><unittitle>PDF Files</unittitle><unitdate normal="2018-03/2018-04" type="inclusive">2018-03-2018-04</unitdate><dao xlink:actuate="onLoad" audience="external" xlink:href="https://aeon.library.nyu.edu/Logon?Action=10&amp;Form=31&amp;Value=http://dlib.nyu.edu/findingaids/ead/tamwag/wag_357.xml&amp;view=xml" xlink:role="service" xlink:show="new" xlink:title="PDF Files" xlink:type="simple"><daodesc><p>PDF Files</p></daodesc></dao></did></c></dsc>
 </archdesc>
 </ead>
